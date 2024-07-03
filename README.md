@@ -7,6 +7,6 @@ Created a Magic-8 Ball program that provides a prediction on any question inputt
 - Visual Studio Code
 - Python 3
 
-## Reference
+## References
 https://www.codecademy.com/projects/practice/python-magic-8-ball
 
